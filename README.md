@@ -4,6 +4,8 @@
 
 # Used technologies
 -  JavaScript
+-  HTML
+-  CSS
 
 # Preview
 ![image](https://github.com/AlexeyAbramovich/starwars/assets/74393859/1f6ea8fb-0764-4179-997e-3194c1f8882e)
